@@ -1,0 +1,26 @@
+{
+    "nombre": "Andres Jair Soto Rodriguez",
+    "edad": 34,
+    "altura": 1.85,
+    "estudiante": true,
+    "pasatiempos": [
+        "jugar footbal",
+        "ver peliculas",
+        "Compartir con mi familia"
+    ],
+    "informacion": [
+        {
+            "Nombre": "Perseo",
+            "Especie": "Canino"
+        },
+        {
+            "Nombre": "Minino",
+            "Especie": "Gato",
+            "Raza": true
+        },
+        {
+            "Nombre": "Pepe",
+            "Especie": "Raton"
+        }
+    ]
+}
